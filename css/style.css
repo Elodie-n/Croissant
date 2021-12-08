@@ -1,0 +1,35 @@
+body {
+  background: #f8e49c;
+}
+h1 {
+  margin-bottom: 70px;
+}
+h1,
+p {
+  text-align: center;
+}
+.text {
+  border: 1px solid black;
+  border-radius: 4px;
+  max-width: 30%;
+  margin: 0px auto;
+  padding: 30px;
+  font-size: 18px;
+  background: lightgoldenrodyellow;
+}
+.navigation-links {
+  text-align: center;
+  margin-top: 40px;
+}
+.navigation-links a {
+  margin: 10px;
+  padding: 20px 15px;
+  font-size: 18px;
+}
+.photo {
+  display: block;
+  margin: 0 auto;
+}
+#contact p {
+  font-size: 18px;
+}
